@@ -1,0 +1,1311 @@
+[
+  {
+    "_id": "6511093731b7f9e2c90e9a3d",
+    "id": 10,
+    "code_name": "huf",
+    "name": "อ่างเก็บน้ำห้วยฝา",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HUFKLS",
+    "password": "sh;p/k",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [
+          "P.15",
+          "P.15_T",
+          "P.16",
+          "P.16_T",
+          "P.17",
+          "P.17_T"
+        ],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093731b7f9e2c90e9a3e",
+    "id": 15,
+    "code_name": "hka",
+    "name": "อ่างเก็บน้ำห้วยแกง",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HUKKLS",
+    "password": "sh;pcd'",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [
+          "OSP.2/2 PE"
+        ],
+        "file": "mLog_27_09_23__09_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093731b7f9e2c90e9a3f",
+    "id": 12,
+    "code_name": "kng",
+    "name": "อ่างเก็บน้ำคลองท่างิ้ว",
+    "be_under": "rid_16",
+    "host": "203.150.102.162",
+    "user": "KNGTRG",
+    "password": "8]v'mjk'bh;",
+    "dir": [
+      "OMNKNG"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "OMNKNG",
+        "isdata": true,
+        "header": [
+          "WL-1",
+          "P-2",
+          "P-7"
+        ],
+        "file": "mLog_27_9_23__09_38_17.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093731b7f9e2c90e9a40",
+    "id": 1,
+    "code_name": "hus",
+    "name": "เขื่อนห้วยทราย",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "HUSCPM",
+    "password": "sh;pmikp",
+    "dir": [
+      "OMNHUS"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "OMNHUS",
+        "isdata": true,
+        "header": [
+          "OW.1",
+          "#1A-S174116",
+          "#1B-S174116",
+          "DIG_001_Temp",
+          "#3A-S174118",
+          "#3B-S174118",
+          "DIG_003_Temp",
+          "#4A-S174119",
+          "#4B-S174119",
+          "DIG_004_Temp",
+          "#5A-S174120",
+          "#5B-S174120",
+          "DIG_005_Temp",
+          "#6A-S174121",
+          "#6B-S174121",
+          "DIG_006_Temp",
+          "IPI.2-2_A",
+          "IPI.2-2_B",
+          "DIG_009_Temp"
+        ],
+        "file": "mLog_27_9_23__08_58_54.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093731b7f9e2c90e9a41",
+    "id": 4,
+    "code_name": "bap",
+    "name": "เขื่อนบ้านเพชร",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "BAPCPM",
+    "password": "[hkogr=i",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [
+          "O.W.1",
+          "O.W.1_T"
+        ],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093731b7f9e2c90e9a42",
+    "id": 3,
+    "code_name": "huk",
+    "name": "เขื่อนห้วยค้อ",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "HUKMKM",
+    "password": "sh;p8hv",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [
+          "P.12",
+          "OSP.1/1 PF",
+          "OSP.1/1 PF_T",
+          "OSP.1/2 PE",
+          "OSP.1/2 PE_T",
+          "O.W.1",
+          "O.W.2",
+          "O.W.2_T",
+          "O.W.3",
+          "O.W.3_T",
+          "O.W.9"
+        ],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093731b7f9e2c90e9a43",
+    "id": 19,
+    "code_name": "hpy",
+    "name": "อ่างเก็บน้ำห้วยพุงใหญ่",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HPYROI",
+    "password": "sh;pr6'.sPj",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [],
+        "file": "mLog_27_09_23__09_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093731b7f9e2c90e9a44",
+    "id": 21,
+    "code_name": "lcha",
+    "name": "เขื่อนลำแชะ",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "LCHNMA",
+    "password": "]ec=t]ec=t",
+    "dir": [
+      "/Omnia1",
+      "/Omnia2"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "/Omnia1",
+        "isdata": true,
+        "header": [],
+        "file": "mLog_26_09_23__08_00_00.csv",
+        "status_con": true
+      },
+      {
+        "use_dir": "/Omnia2",
+        "isdata": true,
+        "header": [
+          "P.24",
+          "INC.4#5(A)",
+          "INC.4#5(B)",
+          "INC.4#5"
+        ],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093731b7f9e2c90e9a45",
+    "id": 2,
+    "code_name": "hut",
+    "name": "เขื่อนห้วยทา",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "HUTSSK",
+    "password": "sh;pmk",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [
+          "P.5",
+          "O.W.3",
+          "O.W.3_T",
+          "O.W.4",
+          "SF.1/2",
+          "SF.2/2",
+          "WL.2",
+          "PO.15",
+          "PO.19"
+        ],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093731b7f9e2c90e9a46",
+    "id": 5,
+    "code_name": "lpm",
+    "name": "เขื่อนลำปลายมาศ",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "LPMNMA",
+    "password": "]ex]kp,kL",
+    "dir": [
+      "LPMNMA"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "LPMNMA",
+        "isdata": true,
+        "header": [
+          "ST.2/2 (PE)",
+          "O.W.1",
+          "SF.1/2",
+          "SF.2/2"
+        ],
+        "file": "mLog_27_9_23__08_00_01.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093731b7f9e2c90e9a47",
+    "id": 14,
+    "code_name": "hwn",
+    "name": "เขื่อนห้วยวังนอง",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HuaiWangNong",
+    "password": "k8WYhWb",
+    "dir": [
+      "HWNOMNIA"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "HWNOMNIA",
+        "isdata": true,
+        "header": [],
+        "file": "mLog_27_9_23__08_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093731b7f9e2c90e9a48",
+    "id": 13,
+    "code_name": "lph",
+    "name": "เขื่อนลำพระเพลิง",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "LPHNMA",
+    "password": "]eritgr]b'",
+    "dir": [
+      "OMNLPH"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "OMNLPH",
+        "isdata": true,
+        "header": [
+          "P.2",
+          "P.9",
+          "P.10",
+          "P.15",
+          "P.20",
+          "P.23",
+          "P.24",
+          "IPI.2_003_A",
+          "IPI.2_003_B",
+          "DIG_002_Temp",
+          "IPI.2_004_A",
+          "IPI.2_004_B",
+          "DIG_003_Temp",
+          "IPI.2_005_A",
+          "IPI.2_005_B",
+          "DIG_004_Temp",
+          "IPI.2_006_A",
+          "IPI.2_006_B",
+          "DIG_005_Temp",
+          "IPI.2_007_A",
+          "IPI.2_007_B",
+          "DIG_006_Temp",
+          "IPI.2_008_A",
+          "IPI.2_008_B",
+          "DIG_007_Temp",
+          "IPI.2_009_A",
+          "IPI.2_009_B",
+          "DIG_008_Temp",
+          "IPI.2_010_A",
+          "IPI.2_010_B",
+          "DIG_009_Temp",
+          "IPI.2_011_A",
+          "IPI.2_011_B",
+          "DIG_010_Temp",
+          "IPI.2_012_A",
+          "IPI.2_012_B",
+          "DIG_011_Temp",
+          "IPI.2_013_A",
+          "IPI.2_013_B",
+          "DIG_012_Temp",
+          "IPI.2_014_A",
+          "IPI.2_014_B",
+          "DIG_013_Temp",
+          "IPI.2_015_A",
+          "IPI.2_015_B",
+          "DIG_014_Temp",
+          "IPI.2_016_A",
+          "IPI.2_016_B",
+          "DIG_015_Temp",
+          "IPI.2_017_A",
+          "IPI.2_017_B",
+          "DIG_016_Temp",
+          "IPI.2_018_A",
+          "IPI.2_018_B",
+          "DIG_017_Temp",
+          "IPI.2_019_A",
+          "IPI.2_019_B",
+          "DIG_018_Temp",
+          "IPI.2_020_A",
+          "IPI.2_020_B",
+          "DIG_019_Temp",
+          "IPI.2_021_A",
+          "IPI.2_021_B",
+          "DIG_020_Temp",
+          "IPI.2_022_A",
+          "IPI.2_022_B",
+          "DIG_021_Temp",
+          "IPI.2_023_A",
+          "IPI.2_023_B",
+          "DIG_022_Temp",
+          "IPI.2_024_A",
+          "IPI.2_024_B",
+          "DIG_023_Temp",
+          "IPI.2_025_A",
+          "IPI.2_025_B",
+          "DIG_024_Temp",
+          "IPI.2_026_A",
+          "IPI.2_026_B",
+          "DIG_025_Temp",
+          "IPI.2_027_A",
+          "IPI.2_027_B",
+          "DIG_027_Temp",
+          "IPI.2_028_A",
+          "IPI.2_028_B",
+          "DIG_028_Temp",
+          "IPI.2_029_A",
+          "IPI.2_029_B",
+          "DIG_029_Temp",
+          "IPI.4_001_A",
+          "IPI.4_001_B",
+          "DIG_030_Temp",
+          "IPI.4_002_A",
+          "IPI.4_002_B",
+          "DIG_031_Temp",
+          "IPI.4_003_A",
+          "IPI.4_003_B",
+          "DIG_032_Temp",
+          "IPI.4_004_A",
+          "IPI.4_004_B",
+          "DIG_033_Temp",
+          "IPI.4_005_A",
+          "IPI.4_005_B",
+          "DIG_034_Temp",
+          "IPI.4_006_A",
+          "IPI.4_006_B",
+          "DIG_035_Temp",
+          "IPI.4_007_A",
+          "IPI.4_007_B",
+          "DIG_036_Temp",
+          "IPI.4_008_A",
+          "IPI.4_008_B",
+          "DIG_037_Temp",
+          "IPI.4_009_A",
+          "IPI.4_009_B",
+          "DIG_038_Temp",
+          "IPI.4_010_A",
+          "IPI.4_010_B",
+          "DIG_039_Temp",
+          "IPI.4_011_A",
+          "IPI.4_011_B",
+          "DIG_040_Temp",
+          "IPI.4_012_A",
+          "IPI.4_012_B",
+          "DIG_041_Temp",
+          "IPI.4_013_A",
+          "IPI.4_013_B",
+          "DIG_042_Temp",
+          "IPI.4_014_A",
+          "IPI.4_014_B",
+          "DIG_043_Temp",
+          "IPI.4_015_A",
+          "IPI.4_015_B",
+          "DIG_044_Temp",
+          "IPI.4_016_A",
+          "IPI.4_016_B",
+          "DIG_045_Temp",
+          "IPI.4_017_A",
+          "IPI.4_017_B",
+          "DIG_046_Temp",
+          "IPI.4_018_A",
+          "IPI.4_018_B",
+          "DIG_047_Temp",
+          "IPI.4_019_A",
+          "IPI.4_019_B",
+          "DIG_048_Temp",
+          "IPI.4_020_A",
+          "IPI.4_020_B",
+          "DIG_049_Temp",
+          "IPI.4_021_A",
+          "IPI.4_021_B",
+          "DIG_050_Temp",
+          "IPI.4_022_A",
+          "IPI.4_022_B",
+          "DIG_051_Temp",
+          "IPI.4_023_A",
+          "IPI.4_023_B",
+          "DIG_052_Temp",
+          "IPI.2_001_A",
+          "IPI.2_001_B",
+          "DIG_075_Temp",
+          "IPI.2_002_A",
+          "IPI.2_002_B",
+          "DIG_076_Temp"
+        ],
+        "file": "mLog_27_9_23__08_00_02.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093731b7f9e2c90e9a49",
+    "id": 22,
+    "code_name": "lcs",
+    "name": "เขื่อนลำเชียงสา",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "LCSNMA",
+    "password": "]eg=up'lk",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [
+          "P.20"
+        ],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093731b7f9e2c90e9a4a",
+    "id": 24,
+    "code_name": "hpu",
+    "name": "เขื่อนห้วยพุ",
+    "be_under": "rid_7",
+    "host": "203.150.102.162",
+    "user": "HUPMUK",
+    "password": "sh;pr6sh;pr6",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a4b",
+    "id": 27,
+    "code_name": "skj",
+    "name": "อ่างเก็บน้ำบ้านซับกระจาย",
+    "be_under": "const8",
+    "host": "203.150.102.162",
+    "user": "SKJNMA",
+    "password": "[hko:y[dit0kp",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a4c",
+    "id": 26,
+    "code_name": "hhl",
+    "name": "เขื่อนห้วยหินลับ",
+    "be_under": "rid_7",
+    "host": "203.150.102.162",
+    "user": "HHLMUK",
+    "password": "sh;psbo]y[",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a4d",
+    "id": 25,
+    "code_name": "hur",
+    "name": "เขื่อนห้วยไร่",
+    "be_under": "rid_7",
+    "host": "203.150.102.162",
+    "user": "HURMUK",
+    "password": "sh;pwij",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [],
+        "file": "mLog_27_09_23__09_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a4e",
+    "id": 8,
+    "code_name": "lch",
+    "name": "อ่างเก็บน้ำลำคันฉู",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "LCHCPM",
+    "password": "]e8yoC6",
+    "dir": [
+      "OMNLCH"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "OMNLCH",
+        "isdata": true,
+        "header": [
+          "P.3",
+          "SF.2",
+          "OW.1_T",
+          "IPI.1-1_A",
+          "IPI.1-1_B",
+          "DIG_053_Temp",
+          "IPI.1-2_A",
+          "IPI.1-2_B",
+          "DIG_063_Temp",
+          "IPI.1-3_A",
+          "IPI.1-3_B",
+          "DIG_064_Temp",
+          "IPI.1-4_A",
+          "IPI.1-4_B",
+          "DIG_065_Temp",
+          "IPI.1-5_A",
+          "IPI.1-5_B",
+          "DIG_066_Temp",
+          "IPI.1-6_A",
+          "IPI.1-6_B",
+          "DIG_067_Temp",
+          "IPI.2-1_A",
+          "IPI.2-1_B",
+          "DIG_068_Temp",
+          "IPI.2-2_A",
+          "IPI.2-2_B",
+          "DIG_069_Temp",
+          "IPI.2-3_A",
+          "IPI.2-3_B",
+          "DIG_070_Temp",
+          "IPI.2-4_A",
+          "IPI.2-4_B",
+          "DIG_071_Temp",
+          "IPI.2-5_A",
+          "IPI.2-5_B",
+          "DIG_072_Temp",
+          "IPI.2-6_A",
+          "IPI.2-6_B",
+          "DIG_073_Temp"
+        ],
+        "file": "mLog_27_09_23__09_45_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a4f",
+    "id": 18,
+    "code_name": "hty",
+    "name": "อ่างเก็บน้ำห้วยเตย",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HUTKON",
+    "password": "sh;pg9p",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [],
+        "file": "mLog_27_09_23__09_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a50",
+    "id": 29,
+    "code_name": "HWLFKLS",
+    "name": "อ่างเก็บน้ำห้วยวังลิ้นฟ้า",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HWLFKLS",
+    "password": "Sh;p;y’]bhoahk",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [
+          "WL.1/1",
+          "INC.1#1(A)",
+          "INC.1#1(B)",
+          "INC.1#1",
+          "INC.2#5(A)",
+          "INC.2#5(B)",
+          "INC.2#5"
+        ],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a51",
+    "id": 20,
+    "code_name": "lck",
+    "name": "เขื่อนลำเชียงไกร ตอนบน",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "LCKUNMA",
+    "password": "]eg=up'wdi9vo[o",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [
+          "P.13"
+        ],
+        "file": "mLog_27_09_23__09_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a52",
+    "id": 23,
+    "code_name": "hcn",
+    "name": "เขื่อนห้วยชะโนด",
+    "be_under": "rid_7",
+    "host": "203.150.102.162",
+    "user": "HCNMUK",
+    "password": "sh;p=tFof",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [],
+        "file": "mLog_27_09_23__09_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a53",
+    "id": 9,
+    "code_name": "hst",
+    "name": "อ่างเก็บน้ำห้วยสะทด",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HSTKLS",
+    "password": "sh;pltmf",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [
+          "P.5"
+        ],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a54",
+    "id": 28,
+    "code_name": "HSTNKLS",
+    "name": "อ่างเก็บน้ำห้วยสีทน",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HSTNKLS",
+    "password": "sh;plumo",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [
+          "INC.1#3(A)",
+          "INC.1#3(B)",
+          "INC.1#3"
+        ],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a55",
+    "id": 30,
+    "code_name": "LPYUKLS",
+    "name": "อ่างเก็บน้ำลำพะยัง ตอนบน",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "LPYUKLS",
+    "password": "]ertpy’9vo[o",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a56",
+    "id": 11,
+    "code_name": "hks",
+    "name": "อ่างเก็บน้ำห้วยขอนสัก",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HKSMKM",
+    "password": "sh;p-volyd",
+    "dir": [
+      "OMNHKS"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "OMNHKS",
+        "isdata": true,
+        "header": [
+          "INC.2-8_A",
+          "INC.2-8_B",
+          "DIG_002_Temp",
+          "INC.1-1_A-T",
+          "INC.1-1_B-T",
+          "DIG_010_Temp",
+          "INC.2-10_A-B",
+          "INC.2-10_B-B",
+          "DIG_011_Temp",
+          "INC.1-2_A ",
+          "INC.1-2_B",
+          "DIG_054_Temp",
+          "INC.1-3_A ",
+          "INC.1-3_B",
+          "DIG_055_Temp",
+          "INC.1-4_A ",
+          "INC.1-4_B",
+          "DIG_056_Temp",
+          "INC.1-5_A-B",
+          "INC.1-5_B-B",
+          "DIG_057_Temp",
+          "INC.2-2_A ",
+          "INC.2-2_B ",
+          "DIG_059_Temp",
+          "INC.2-9_A ",
+          "INC.2-9_B",
+          "DIG_061_Temp",
+          "INC.2-6_A-T",
+          "INC.2-6_B-T",
+          "DIG_074_Temp"
+        ],
+        "file": "mLog_27_09_23__08_40_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a57",
+    "id": 35,
+    "code_name": "MBNMA",
+    "name": "เขื่อนมูลบน",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "MBNMA",
+    "password": "g-njvo,^][o",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a58",
+    "id": 36,
+    "code_name": "LTKNMA",
+    "name": "เขื่อนลำตะคอง",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "LTKNMA",
+    "password": "]e9t8v’",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [
+          "PO.9",
+          "PO.15",
+          "PO.7"
+        ],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a59",
+    "id": 41,
+    "code_name": "HPYST",
+    "name": "เขื่อนห้วยโพงตอนบน",
+    "be_under": "rid_7",
+    "host": "203.150.102.162",
+    "user": "HUPYST",
+    "password": "Sh;pFr’",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a5a",
+    "id": 43,
+    "code_name": "HDHUBN",
+    "name": "เขื่อนห้วยเดือนห้า",
+    "be_under": "rid_7",
+    "host": "203.150.102.162",
+    "user": "HDHUBN",
+    "password": "Sh;pgfnvoshk",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a5b",
+    "id": 17,
+    "code_name": "lpa",
+    "name": "อ่างเก็บน้ำลำปาว",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "LUPKLS",
+    "password": "g-njvo]exk;",
+    "dir": [
+      "/OMNLUPKLS_C",
+      "/OMNLUPKLS_B",
+      "/OMNLUPKLS_D",
+      "/OMNLUPKLS_A"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "/OMNLUPKLS_C",
+        "isdata": true,
+        "header": [
+          "STP_PF(P.86)",
+          "#1A-S180030",
+          "#1B-S180030",
+          "DIG_001_Temp",
+          "#2A-S180031",
+          "#2B-S180031",
+          "DIG_002_Temp",
+          "#3A-S180032",
+          "#3B-S180032",
+          "DIG_003_Temp",
+          "#4A-S180033",
+          "#4B-S180033",
+          "DIG_004_Temp",
+          "#25A-S180025",
+          "#25B-S180025",
+          "DIG_025_Temp",
+          "#26A-S180026",
+          "#26B-S180026",
+          "DIG_026_Temp",
+          "#27A-S180027",
+          "#27B-S180027",
+          "DIG_027_Temp",
+          "#28A-S180028",
+          "#28B-S180028",
+          "DIG_028_Temp",
+          "#29A-S180029",
+          "#29B-S180029",
+          "DIG_029_Temp"
+        ],
+        "file": "mLog_27_9_23__09_45_01.csv",
+        "status_con": true
+      },
+      {
+        "use_dir": "/OMNLUPKLS_B",
+        "isdata": true,
+        "header": [
+          "P.31",
+          "O.W.3(P.94)",
+          "#19A-S180019",
+          "#19B-S180019",
+          "DIG_019_Temp",
+          "#20A-S180020",
+          "#20B-S180020",
+          "DIG_020_Temp",
+          "#21A-S180021",
+          "#21B-S180021",
+          "DIG_021_Temp",
+          "#22A-S180022",
+          "#22B-S180022",
+          "DIG_022_Temp",
+          "#23A-S180023",
+          "#23B-S180023",
+          "DIG_023_Temp",
+          "#24A-S180024",
+          "#24B-S180024",
+          "DIG_024_Temp"
+        ],
+        "file": "mLog_27_9_23__09_00_01.csv",
+        "status_con": true
+      },
+      {
+        "use_dir": "/OMNLUPKLS_D",
+        "isdata": true,
+        "header": [
+          " P.48",
+          "P.49",
+          "P.57",
+          "P.66",
+          "P.80"
+        ],
+        "file": "mLog_27_9_23__09_34_40.csv",
+        "status_con": true
+      },
+      {
+        "use_dir": "/OMNLUPKLS_A",
+        "isdata": true,
+        "header": [
+          "P.2",
+          "P.11",
+          "STP_PF(P.88)",
+          "STP_PE(P.89)",
+          "STP_PF(P.90)",
+          "STP_PE(P.91)",
+          "O.W.1(P.92)",
+          "O.W.2(P.93)"
+        ],
+        "file": "mLog_27_9_23__09_00_01.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a5c",
+    "id": 44,
+    "code_name": "HLMUBN",
+    "name": "เขื่อนห้วยละมืด",
+    "be_under": "rid_7",
+    "host": "203.150.102.162",
+    "user": "HLMUBN",
+    "password": "Sh;p]t,nf",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [
+          "WL.1/1"
+        ],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a5d",
+    "id": 42,
+    "code_name": "HSPNUBN",
+    "name": "เขื่อนห้วยสะพงน้อย",
+    "be_under": "rid_7",
+    "host": "203.150.102.162",
+    "user": "HSPNUBN",
+    "password": "Sh;pltr’ohvp",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [
+          "O.W.2",
+          "1PO.6_T",
+          "2PO.8",
+          "2PO.9",
+          "2PO.9_T"
+        ],
+        "file": "mLog_27_09_23__09_49_28.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a5e",
+    "id": 31,
+    "code_name": "HLPKON",
+    "name": "อ่างเก็บน้ำห้วยลอมไผ่",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HLPKON",
+    "password": "Sh;p]v,wzj",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [],
+        "file": "mLog_27_09_23__09_09_53.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a5f",
+    "id": 32,
+    "code_name": "HSKKLS",
+    "name": "อ่างเก็บน้ำห้วยสังเคียบ",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HSKKLS",
+    "password": "Sh;ply’g8up[",
+    "dir": [
+      "/I.H.1 Main Dam/Omnia",
+      "/I.H.2 Saddle Dam/Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "/I.H.1 Main Dam/Omnia",
+        "isdata": true,
+        "header": [],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      },
+      {
+        "use_dir": "/I.H.2 Saddle Dam/Omnia",
+        "isdata": true,
+        "header": [
+          "P.24"
+        ],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a60",
+    "id": 39,
+    "code_name": "HSTAMJ",
+    "name": "เขื่อนห้วยสีโท",
+    "be_under": "rid_7",
+    "host": "203.150.102.162",
+    "user": "HSTAMJ",
+    "password": "Sh;pluFm",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [],
+        "file": "mLog_27_09_23__08_51_48.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a61",
+    "id": 37,
+    "code_name": "LNRBRM",
+    "name": "เขื่อนลำนางรอง",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "LNRBRM",
+    "password": "]eok’iv’",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [
+          "PO.10",
+          "PO.10_T",
+          "PO.11",
+          "PO.11_T",
+          "PO.13",
+          "PO.13_T",
+          "PO.15",
+          "PO.15_T",
+          "PO.18",
+          "PO.18_T"
+        ],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a62",
+    "id": 38,
+    "code_name": "HTJSSK",
+    "name": "เขื่อนห้วยตาจู",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "HTJSSK",
+    "password": "Sh;p9k0^",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [],
+        "file": "mLog_27_09_23__08_00_00.csv",
+        "status_con": true
+      }
+    ]
+  },
+  {
+    "_id": "6511093831b7f9e2c90e9a63",
+    "id": 40,
+    "code_name": "HKTYMUK",
+    "name": "เขื่อนห้วยคันแทใหญ่",
+    "be_under": "rid_7",
+    "host": "203.150.102.162",
+    "user": "HKTYMUK",
+    "password": "8yocm.sPj",
+    "dir": [
+      "Omnia"
+    ],
+    "FTPdata": [
+      {
+        "use_dir": "Omnia",
+        "isdata": true,
+        "header": [],
+        "file": "mLog_27_09_23__09_33_34.csv",
+        "status_con": true
+      }
+    ]
+  }
+]

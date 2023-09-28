@@ -1,0 +1,473 @@
+[
+  {
+    "name": "อ่างเก็บน้ำห้วยฝา",
+    "code_name": "huf",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HUFKLS",
+    "password": "sh;p/k",
+    "dir": [
+      "Omnia"
+    ]
+  },
+  {
+    "name": "อ่างเก็บน้ำห้วยแกง",
+    "code_name": "hka",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HUKKLS",
+    "password": "sh;pcd'",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "อ่างเก็บน้ำคลองท่างิ้ว",
+    "code_name": "kng",
+    "be_under": "rid_16",
+    "host": "203.150.102.162",
+    "user": "KNGTRG",
+    "password": "8]v'mjk'bh;",
+    "dir": [
+      "OMNKNG"
+
+    ]
+  },
+  {
+    "name": "เขื่อนห้วยทราย",
+    "code_name": "hus",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "HUSCPM",
+    "password": "sh;pmikp",
+    "dir": [
+      "OMNHUS"
+
+    ]
+  },
+  {
+    "name": "เขื่อนบ้านเพชร",
+    "code_name": "bap",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "BAPCPM",
+    "password": "[hkogr=i",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "เขื่อนห้วยค้อ",
+    "code_name": "huk",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "HUKMKM",
+    "password": "sh;p8hv",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "อ่างเก็บน้ำห้วยพุงใหญ่",
+    "code_name": "hpy",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HPYROI",
+    "password": "sh;pr6'.sPj",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "เขื่อนลำแชะ",
+    "code_name": "lcha",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "LCHNMA",
+    "password": "]ec=t]ec=t",
+    "dir": [
+      "/Omnia1",
+      "/Omnia2"
+    ]
+  },
+  {
+    "name": "เขื่อนห้วยทา",
+    "code_name": "hut",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "HUTSSK",
+    "password": "sh;pmk",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "เขื่อนลำปลายมาศ",
+    "code_name": "lpm",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "LPMNMA",
+    "password": "]ex]kp,kL",
+    "dir": [
+      "LPMNMA"
+
+    ]
+  },
+  {
+    "name": "เขื่อนห้วยวังนอง",
+    "code_name": "hwn",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HuaiWangNong",
+    "password": "k8WYhWb",
+    "dir": [
+
+      "HWNOMNIA"
+
+    ]
+  },
+  {
+    "name": "เขื่อนลำพระเพลิง",
+    "code_name": "lph",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "LPHNMA",
+    "password": "]eritgr]b'",
+    "dir": [
+      "OMNLPH"
+    ]
+  },
+  {
+    "name": "เขื่อนลำเชียงสา",
+    "code_name": "lcs",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "LCSNMA",
+    "password": "]eg=up'lk",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "เขื่อนห้วยพุ",
+    "code_name": "hpu",
+    "be_under": "rid_7",
+    "host": "203.150.102.162",
+    "user": "HUPMUK",
+    "password": "sh;pr6sh;pr6",
+    "dir": [
+      "Omnia"
+  
+    ]
+  },
+  {
+    "name": "อ่างเก็บน้ำบ้านซับกระจาย",
+    "code_name": "skj",
+    "be_under": "const8",
+    "host": "203.150.102.162",
+    "user": "SKJNMA",
+    "password": "[hko:y[dit0kp",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "เขื่อนห้วยหินลับ",
+    "code_name": "hhl",
+    "be_under": "rid_7",
+    "host": "203.150.102.162",
+    "user": "HHLMUK",
+    "password": "sh;psbo]y[",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "เขื่อนห้วยไร่",
+    "code_name": "hur",
+    "be_under": "rid_7",
+    "host": "203.150.102.162",
+    "user": "HURMUK",
+    "password": "sh;pwij",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "อ่างเก็บน้ำลำคันฉู",
+    "code_name": "lch",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "LCHCPM",
+    "password": "]e8yoC6",
+    "dir": [
+      "OMNLCH"
+
+    ]
+  },
+  {
+    "name": "อ่างเก็บน้ำห้วยเตย",
+    "code_name": "hty",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HUTKON",
+    "password": "sh;pg9p",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "อ่างเก็บน้ำห้วยวังลิ้นฟ้า",
+    "code_name": "HWLFKLS",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HWLFKLS",
+    "password": "Sh;p;y’]bhoahk",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "เขื่อนลำเชียงไกร ตอนบน",
+    "code_name": "lck",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "LCKUNMA",
+    "password": "]eg=up'wdi9vo[o",
+    "dir": [
+
+      "Omnia"
+    ]
+  },
+  {
+    "name": "เขื่อนห้วยชะโนด",
+    "code_name": "hcn",
+    "be_under": "rid_7",
+    "host": "203.150.102.162",
+    "user": "HCNMUK",
+    "password": "sh;p=tFof",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "อ่างเก็บน้ำห้วยสะทด",
+    "code_name": "hst",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HSTKLS",
+    "password": "sh;pltmf",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "อ่างเก็บน้ำห้วยสีทน",
+    "code_name": "HSTNKLS",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HSTNKLS",
+    "password": "sh;plumo",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "อ่างเก็บน้ำลำพะยัง ตอนบน",
+    "code_name": "LPYUKLS",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "LPYUKLS",
+    "password": "]ertpy’9vo[o",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "อ่างเก็บน้ำห้วยขอนสัก",
+    "code_name": "hks",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HKSMKM",
+    "password": "sh;p-volyd",
+    "dir": [
+      "OMNHKS"
+
+    ]
+  },
+  {
+    "name": "เขื่อนมูลบน",
+    "code_name": "MBNMA",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "MBNMA",
+    "password": "g-njvo,^][o",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "เขื่อนลำตะคอง",
+    "code_name": "LTKNMA",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "LTKNMA",
+    "password": "]e9t8v’",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "เขื่อนห้วยโพงตอนบน",
+    "code_name": "HPYST",
+    "be_under": "rid_7",
+    "host": "203.150.102.162",
+    "user": "HUPYST",
+    "password": "Sh;pFr’",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "เขื่อนห้วยเดือนห้า",
+    "code_name": "HDHUBN",
+    "be_under": "rid_7",
+    "host": "203.150.102.162",
+    "user": "HDHUBN",
+    "password": "Sh;pgfnvoshk",
+    "dir": [
+      "Omnia"
+    ]
+  },
+  {
+    "name": "อ่างเก็บน้ำลำปาว",
+    "code_name": "lpa",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "LUPKLS",
+    "password": "g-njvo]exk;",
+    "dir": [
+      "/OMNLUPKLS_C",
+      "/OMNLUPKLS_B",
+      "/OMNLUPKLS_D",
+      "/OMNLUPKLS_A"
+
+    ]
+  },
+  {
+    "name": "เขื่อนห้วยละมืด",
+    "code_name": "HLMUBN",
+    "be_under": "rid_7",
+    "host": "203.150.102.162",
+    "user": "HLMUBN",
+    "password": "Sh;p]t,nf",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "เขื่อนห้วยสะพงน้อย",
+    "code_name": "HSPNUBN",
+    "be_under": "rid_7",
+    "host": "203.150.102.162",
+    "user": "HSPNUBN",
+    "password": "Sh;pltr’ohvp",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "อ่างเก็บน้ำห้วยลอมไผ่",
+    "code_name": "HLPKON",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HLPKON",
+    "password": "Sh;p]v,wzj",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "อ่างเก็บน้ำห้วยสังเคียบ",
+    "code_name": "HSKKLS",
+    "be_under": "rid_6",
+    "host": "203.150.102.162",
+    "user": "HSKKLS",
+    "password": "Sh;ply’g8up[",
+    "dir": [
+      "/I.H.1 Main Dam/Omnia",
+      "/I.H.2 Saddle Dam/Omnia"
+
+    ]
+  },
+  {
+    "name": "เขื่อนห้วยสีโท",
+    "code_name": "HSTAMJ",
+    "be_under": "rid_7",
+    "host": "203.150.102.162",
+    "user": "HSTAMJ",
+    "password": "Sh;pluFm",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "เขื่อนลำนางรอง",
+    "code_name": "LNRBRM",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "LNRBRM",
+    "password": "]eok’iv’",
+    "dir": [
+      "Omnia"
+
+
+    ]
+  },
+  {
+    "name": "เขื่อนห้วยตาจู",
+    "code_name": "HTJSSK",
+    "be_under": "rid_8",
+    "host": "203.150.102.162",
+    "user": "HTJSSK",
+    "password": "Sh;p9k0^",
+    "dir": [
+      "Omnia"
+
+    ]
+  },
+  {
+    "name": "เขื่อนห้วยคันแทใหญ่",
+    "code_name": "HKTYMUK",
+    "be_under": "rid_7",
+    "host": "203.150.102.162",
+    "user": "HKTYMUK",
+    "password": "8yocm.sPj",
+    "dir": [
+      "Omnia"
+ 
+    ]
+  }
+]

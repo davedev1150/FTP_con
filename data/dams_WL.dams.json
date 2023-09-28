@@ -1,0 +1,2384 @@
+[{
+  "_id": {
+    "$oid": "6511093731b7f9e2c90e9a3d"
+  },
+  "id": 10,
+  "name": "อ่างเก็บน้ำห้วยฝา",
+  "code_name": "huf",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ อ่างเก็บน้ำห้วยฝา",
+  "district": "ห้วยผึ้ง",
+  "sub_district": "นิคมห้วยผึ้ง",
+  "province": "กาฬสินธุ์",
+  "started_construction": "2508",
+  "finished_construction": "2509",
+  "reservoir_area": "24.6",
+  "rainwater_receiving_area": "28",
+  "dam_width": "6",
+  "dam_height": "13.2",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "193",
+  "highest_water_level": "192",
+  "dam_length": "640",
+  "catchment_level": "191",
+  "lowest_water_level": "187",
+  "wcocl": null,
+  "wcohwl": null,
+  "over_catchment_level": "191",
+  "created_at": {
+    "$date": "2021-03-23T02:07:46.000Z"
+  },
+  "updated_at": {
+    "$date": "2021-10-01T01:45:14.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 16.67753,
+    "lng": 103.892537
+  },
+  "marker": {
+    "lat": 16.672066,
+    "lng": 103.890908
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "data-mapper",
+  "is_dam_detail_active": false,
+  "be_under": "rid_6",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HUFKLS",
+  "Password": "sh;p/k",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093731b7f9e2c90e9a3e"
+  },
+  "id": 15,
+  "name": "อ่างเก็บน้ำห้วยแกง",
+  "code_name": "hka",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ อ่างเก็บน้ำห้วยแกง",
+  "district": "ดอนจาน",
+  "sub_district": "ดงพยุง",
+  "province": "กาฬสินธุ์",
+  "started_construction": "2509",
+  "finished_construction": "2515",
+  "reservoir_area": "12.6",
+  "rainwater_receiving_area": "149",
+  "dam_width": "6",
+  "dam_height": "13",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "168",
+  "highest_water_level": "167",
+  "dam_length": "600",
+  "catchment_level": "166",
+  "lowest_water_level": "159",
+  "wcocl": "23.3",
+  "wcohwl": "27",
+  "over_catchment_level": "166.6",
+  "created_at": {
+    "$date": "2021-03-30T00:19:59.000Z"
+  },
+  "updated_at": {
+    "$date": "2021-10-04T01:50:29.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 16.542062,
+    "lng": 103.69346
+  },
+  "marker": {
+    "lat": 16.535651,
+    "lng": 103.690214
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "data-mapper",
+  "is_dam_detail_active": false,
+  "be_under": "rid_6",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HUKKLS",
+  "Password": "sh;pcd'",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093731b7f9e2c90e9a3f"
+  },
+  "id": 12,
+  "name": "อ่างเก็บน้ำคลองท่างิ้ว",
+  "code_name": "kng",
+  "project_name": "งานจัดหาพร้อมติดตั้งเครื่องมือวัดพฤติกรรมเขื่อนพร้อมรับส่งข้อมูลอัตโนมัติ ตำบลท่างิ้ว อ่างเก็บน้ำคลองท่างิ้ว อําเภอห้วยยอด จังหวัดตรัง",
+  "district": "ห้วยยอด",
+  "sub_district": "ท่างิ้ว",
+  "province": "ตรัง",
+  "started_construction": "2537",
+  "finished_construction": "2543",
+  "reservoir_area": "1.3",
+  "rainwater_receiving_area": "22",
+  "dam_width": "8",
+  "dam_height": "40",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "105",
+  "highest_water_level": "102.6",
+  "dam_length": "330",
+  "catchment_level": "101",
+  "lowest_water_level": "74",
+  "wcocl": null,
+  "wcohwl": null,
+  "over_catchment_level": "102",
+  "created_at": {
+    "$date": "2021-03-23T06:34:31.000Z"
+  },
+  "updated_at": {
+    "$date": "2022-04-29T02:26:04.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 7.840102,
+    "lng": 99.695201
+  },
+  "marker": {
+    "lat": 7.8385,
+    "lng": 99.692694
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "data-mapper",
+  "is_dam_detail_active": false,
+  "be_under": "rid_16",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "KNGTRG",
+  "Password": "8]v'mjk'bh;",
+  "__v": 0,
+  "dir": [
+    "/OMNKNG"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093731b7f9e2c90e9a40"
+  },
+  "id": 1,
+  "name": "เขื่อนห้วยทราย",
+  "code_name": "hus",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ อ่างเก็บน้ำห้วยทราย",
+  "district": "บำเหน็จณรงค์",
+  "sub_district": "บ้านชวน",
+  "province": "ชัยภูมิ",
+  "started_construction": "2534",
+  "finished_construction": "2538",
+  "reservoir_area": "3.26",
+  "rainwater_receiving_area": "67",
+  "dam_width": "8",
+  "dam_height": "19.2",
+  "maximum_capacity": null,
+  "catchment_capacity": "265.6",
+  "dam_level": "269",
+  "highest_water_level": "267.13",
+  "dam_length": "1500",
+  "catchment_level": "265.6",
+  "lowest_water_level": "257",
+  "wcocl": "10.3",
+  "wcohwl": "14.5",
+  "over_catchment_level": "267",
+  "created_at": {
+    "$date": "2020-12-14T12:26:56.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-01-10T14:44:47.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 15.561342,
+    "lng": 101.590098
+  },
+  "marker": {
+    "lat": 15.56035,
+    "lng": 101.599325
+  },
+  "status": "activated",
+  "youtube_link": "https://www.youtube.com/embed/FXjO7MIyd1A",
+  "step": "instrument",
+  "is_dam_detail_active": true,
+  "be_under": "rid_8",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HUSCPM",
+  "Password": "sh;pmikp",
+  "__v": 0,
+  "dir": [
+    "/OMNHUS"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093731b7f9e2c90e9a41"
+  },
+  "id": 4,
+  "name": "เขื่อนบ้านเพชร",
+  "code_name": "bap",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ อ่างเก็บน้ำบ้านเพชร",
+  "district": "ภูเขียว",
+  "sub_district": "บ้านเพชร",
+  "province": "ชัยภูมิ",
+  "started_construction": "2515",
+  "finished_construction": "2515",
+  "reservoir_area": "8.32",
+  "rainwater_receiving_area": "180",
+  "dam_width": "6",
+  "dam_height": "10",
+  "maximum_capacity": null,
+  "catchment_capacity": "207",
+  "dam_level": "209",
+  "highest_water_level": "208",
+  "dam_length": "3000",
+  "catchment_level": "207",
+  "lowest_water_level": "203.5",
+  "wcocl": "19.675",
+  "wcohwl": "28.33",
+  "over_catchment_level": "207.25",
+  "created_at": {
+    "$date": "2020-12-14T12:26:56.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-06T05:15:40.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": true,
+  "center": {
+    "lat": 16.351421,
+    "lng": 102.293982
+  },
+  "marker": {
+    "lat": 16.3602391,
+    "lng": 102.2982293
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "data-mapper",
+  "is_dam_detail_active": true,
+  "be_under": "rid_8",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "BAPCPM",
+  "Password": "[hkogr=i",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093731b7f9e2c90e9a42"
+  },
+  "id": 3,
+  "name": "เขื่อนห้วยค้อ",
+  "code_name": "huk",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ อ่างเก็บน้ำห้วยค้อ",
+  "district": "นาเชือก",
+  "sub_district": "เขวาไร่",
+  "province": "มหาสารคาม",
+  "started_construction": "2511",
+  "finished_construction": "2512",
+  "reservoir_area": "10.14",
+  "rainwater_receiving_area": "208",
+  "dam_width": "6",
+  "dam_height": "11.5",
+  "maximum_capacity": null,
+  "catchment_capacity": "166",
+  "dam_level": "168.5",
+  "highest_water_level": "167.25",
+  "dam_length": "2480",
+  "catchment_level": "166",
+  "lowest_water_level": "162",
+  "wcocl": "31.34",
+  "wcohwl": "60",
+  "over_catchment_level": "166.75",
+  "created_at": {
+    "$date": "2020-12-14T12:26:56.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-07-07T04:18:51.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 15.8338074,
+    "lng": 103.0333389
+  },
+  "marker": {
+    "lat": 15.8232612,
+    "lng": 103.0298223
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "data-mapper",
+  "is_dam_detail_active": true,
+  "be_under": "rid_8",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HUKMKM",
+  "Password": "sh;p8hv",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093731b7f9e2c90e9a43"
+  },
+  "id": 19,
+  "name": "อ่างเก็บน้ำห้วยพุงใหญ่",
+  "code_name": "hpy",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ อ่างเก็บน้ำห้วยพุงใหญ่",
+  "district": "หนองพอก",
+  "sub_district": "บึงงาม",
+  "province": "ร้อยเอ็ด",
+  "started_construction": "2539",
+  "finished_construction": "2546",
+  "reservoir_area": "0",
+  "rainwater_receiving_area": "31.74",
+  "dam_width": "8",
+  "dam_height": "0",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "203",
+  "highest_water_level": "200.56",
+  "dam_length": "1200",
+  "catchment_level": "199",
+  "lowest_water_level": "190.5",
+  "wcocl": null,
+  "wcohwl": null,
+  "over_catchment_level": "199.5",
+  "created_at": {
+    "$date": "2021-09-23T04:06:18.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-11T14:34:09.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 16.384111,
+    "lng": 104.276589
+  },
+  "marker": {
+    "lat": 16.384111,
+    "lng": 104.276589
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "data-mapper",
+  "is_dam_detail_active": false,
+  "be_under": "rid_6",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HPYROI",
+  "Password": "sh;pr6'.sPj",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093731b7f9e2c90e9a44"
+  },
+  "id": 21,
+  "name": "เขื่อนลำแชะ",
+  "code_name": "lcha",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ เขื่อนลำแชะ",
+  "district": "ครบุรี",
+  "sub_district": "โคกกระชาย",
+  "province": "นครราชสีมา",
+  "started_construction": "2523",
+  "finished_construction": "2540",
+  "reservoir_area": "194.72",
+  "rainwater_receiving_area": "0",
+  "dam_width": "8",
+  "dam_height": "29.5",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "231",
+  "highest_water_level": "228.5",
+  "dam_length": "2400",
+  "catchment_level": "227",
+  "lowest_water_level": "213",
+  "wcocl": null,
+  "wcohwl": null,
+  "over_catchment_level": "227.5",
+  "created_at": {
+    "$date": "2021-12-17T16:01:28.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-07-24T02:13:19.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 14.420446,
+    "lng": 102.26992
+  },
+  "marker": {
+    "lat": 14.420446,
+    "lng": 102.26992
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "instrument",
+  "is_dam_detail_active": false,
+  "be_under": "rid_8",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "LCHNMA",
+  "Password": "]ec=t]ec=t",
+  "__v": 0,
+  "dir": [
+    "/Omnia1",
+    "/Omnia2"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093731b7f9e2c90e9a45"
+  },
+  "id": 2,
+  "name": "เขื่อนห้วยทา",
+  "code_name": "hut",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ อ่างเก็บน้ำห้วยทา",
+  "district": "ขุนหาญ",
+  "sub_district": "บักดอง",
+  "province": "ศรีสะเกษ",
+  "started_construction": "2546",
+  "finished_construction": "2546",
+  "reservoir_area": "2.3",
+  "rainwater_receiving_area": "0",
+  "dam_width": "8",
+  "dam_height": "36",
+  "maximum_capacity": null,
+  "catchment_capacity": "196.6",
+  "dam_level": "200.1",
+  "highest_water_level": "198.1",
+  "dam_length": "1300",
+  "catchment_level": "196.6",
+  "lowest_water_level": "176.6",
+  "wcocl": "30",
+  "wcohwl": "33",
+  "over_catchment_level": "197.5",
+  "created_at": {
+    "$date": "2020-12-14T12:26:56.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-09-13T12:21:52.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 14.5164282,
+    "lng": 104.463406
+  },
+  "marker": {
+    "lat": 14.5205376,
+    "lng": 104.4717307
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "instrument",
+  "is_dam_detail_active": true,
+  "be_under": "rid_8",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HUTSSK",
+  "Password": "sh;pmk",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093731b7f9e2c90e9a46"
+  },
+  "id": 5,
+  "name": "เขื่อนลำปลายมาศ",
+  "code_name": "lpm",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนพร้อมระบบส่งข้อมูลอัตโนมัติ เขื่อนลำปลายมาศ",
+  "district": "เสิงสาง",
+  "sub_district": "บ้านราษฏร์",
+  "province": "นครราชสีมา",
+  "started_construction": "2529",
+  "finished_construction": "2534",
+  "reservoir_area": "10.4",
+  "rainwater_receiving_area": "480",
+  "dam_width": "8",
+  "dam_height": "32",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "262.5",
+  "highest_water_level": "259.25",
+  "dam_length": "1100",
+  "catchment_level": "256.5",
+  "lowest_water_level": "241.6",
+  "wcocl": "98",
+  "wcohwl": "115",
+  "over_catchment_level": "258",
+  "created_at": {
+    "$date": "2021-03-12T03:27:49.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-09-22T03:28:05.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 14.298991,
+    "lng": 102.4370063
+  },
+  "marker": {
+    "lat": 14.3046697,
+    "lng": 102.4352912
+  },
+  "status": "activated",
+  "youtube_link": "https://www.youtube.com/embed/Pca55VHctM8",
+  "step": "instrument",
+  "is_dam_detail_active": false,
+  "be_under": "rid_8",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "LPMNMA",
+  "Password": "]ex]kp,kL",
+  "__v": 0,
+  "dir": [
+    "/LPMNMA"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093731b7f9e2c90e9a47"
+  },
+  "id": 14,
+  "name": "เขื่อนห้วยวังนอง",
+  "code_name": "hwn",
+  "project_name": "โครงการจัดหาและติดตั้งอุปกรณ์ตรวจวัดพฤติกรรมเขื่อนพร้อมระบบส่งข้อมูลอัตโนมัติ เขื่อนห้วยวังนอง อำเภอหนองพอก จังหวัดร้อยเอ็ด",
+  "district": "หนองพอก",
+  "sub_district": "ภูเขาทอง",
+  "province": "ร้อยเอ็ด",
+  "started_construction": "2523",
+  "finished_construction": "2527",
+  "reservoir_area": "3.5",
+  "rainwater_receiving_area": "37.2",
+  "dam_width": "6",
+  "dam_height": "18.2",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "198",
+  "highest_water_level": "196.5",
+  "dam_length": "900",
+  "catchment_level": "195.5",
+  "lowest_water_level": "186.5",
+  "wcocl": null,
+  "wcohwl": null,
+  "over_catchment_level": "196",
+  "created_at": {
+    "$date": "2021-03-27T08:51:20.000Z"
+  },
+  "updated_at": {
+    "$date": "2021-09-27T05:04:19.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 16.429581,
+    "lng": 104.2391
+  },
+  "marker": {
+    "lat": 16.429464,
+    "lng": 104.235776
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "instrument",
+  "is_dam_detail_active": false,
+  "be_under": "rid_6",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HuaiWangNong",
+  "Password": "k8WYhWb",
+  "__v": 0,
+  "dir": [
+    "/HWNOMNIA"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093731b7f9e2c90e9a48"
+  },
+  "id": 13,
+  "name": "เขื่อนลำพระเพลิง",
+  "code_name": "lph",
+  "project_name": "\"โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนพร้อมระบบส่งข้อมูลอัตโนมัติ เขื่อนลำพระเพลิง\"",
+  "district": "ปักธงชัย",
+  "sub_district": "ตะขบ",
+  "province": "นครราชสีมา",
+  "started_construction": "2506",
+  "finished_construction": "2510",
+  "reservoir_area": "11.3",
+  "rainwater_receiving_area": "807",
+  "dam_width": "12",
+  "dam_height": "49",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "275",
+  "highest_water_level": "273",
+  "dam_length": "575",
+  "catchment_level": "267",
+  "lowest_water_level": "240",
+  "wcocl": "150",
+  "wcohwl": "242",
+  "over_catchment_level": "268",
+  "created_at": {
+    "$date": "2021-03-24T01:51:35.000Z"
+  },
+  "updated_at": {
+    "$date": "2022-05-23T06:09:13.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 14.59458611,
+    "lng": 101.8393778
+  },
+  "marker": {
+    "lat": 14.59458611,
+    "lng": 101.8393778
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "instrument",
+  "is_dam_detail_active": false,
+  "be_under": "rid_8",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "LPHNMA",
+  "Password": "]eritgr]b'",
+  "__v": 0,
+  "dir": [
+    "/OMNLPH"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093731b7f9e2c90e9a49"
+  },
+  "id": 22,
+  "name": "เขื่อนลำเชียงสา",
+  "code_name": "lcs",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ อ่างเก็บน้ำลำเชียงสา",
+  "district": "วังน้ำเขียว",
+  "sub_district": "อุดมทรัพย์",
+  "province": "นครราชสีมา",
+  "started_construction": "2543",
+  "finished_construction": "2546",
+  "reservoir_area": "8.23",
+  "rainwater_receiving_area": "94",
+  "dam_width": "9",
+  "dam_height": "45",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "280",
+  "highest_water_level": "278.3",
+  "dam_length": "336",
+  "catchment_level": "276.3",
+  "lowest_water_level": "256.5",
+  "wcocl": "7.5",
+  "wcohwl": "8.5",
+  "over_catchment_level": "276.5",
+  "created_at": {
+    "$date": "2022-01-23T00:11:08.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-05-18T04:04:59.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 14.494537,
+    "lng": 101.954385
+  },
+  "marker": {
+    "lat": 14.494537,
+    "lng": 101.954385
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "data-mapper",
+  "is_dam_detail_active": false,
+  "be_under": "rid_8",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "LCSNMA",
+  "Password": "]eg=up'lk",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093731b7f9e2c90e9a4a"
+  },
+  "id": 24,
+  "name": "เขื่อนห้วยพุ",
+  "code_name": "hpu",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ อ่างเก็บน้ำห้วยพุ",
+  "district": "ดงหลวง",
+  "sub_district": "กกตูม",
+  "province": "มุกดาหาร",
+  "started_construction": "2538",
+  "finished_construction": "2539",
+  "reservoir_area": "3.08",
+  "rainwater_receiving_area": "12",
+  "dam_width": "8",
+  "dam_height": "25.8",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "296.8",
+  "highest_water_level": "294.6",
+  "dam_length": "585",
+  "catchment_level": "293.8",
+  "lowest_water_level": "284.5",
+  "wcocl": null,
+  "wcohwl": null,
+  "over_catchment_level": "294",
+  "created_at": {
+    "$date": "2022-01-31T03:43:05.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-07-25T03:49:27.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 16.735161,
+    "lng": 104.186748
+  },
+  "marker": {
+    "lat": 16.73681,
+    "lng": 104.188197
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "instrument",
+  "is_dam_detail_active": false,
+  "be_under": "rid_7",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HUPMUK",
+  "Password": "sh;pr6sh;pr6",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a4b"
+  },
+  "id": 27,
+  "name": "อ่างเก็บน้ำบ้านซับกระจาย",
+  "code_name": "skj",
+  "project_name": "โครงการจ้างจัดหาและติดตั้งเครื่องมือวัดพฤติกรรมเขื่อน โครงการอ่างเก็บน้ำบ้านซับกระจาย",
+  "district": "สีคิ้ว",
+  "sub_district": "กฤษณา",
+  "province": "นครราชสีมา",
+  "started_construction": "2562",
+  "finished_construction": "2565",
+  "reservoir_area": "6.006",
+  "rainwater_receiving_area": "0",
+  "dam_width": "8",
+  "dam_height": "13",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "305",
+  "highest_water_level": "302.4",
+  "dam_length": "677",
+  "catchment_level": "301",
+  "lowest_water_level": "292",
+  "wcocl": "4.26",
+  "wcohwl": null,
+  "over_catchment_level": "302",
+  "created_at": {
+    "$date": "2022-03-11T10:21:01.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-09-12T02:22:27.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 15.044681,
+    "lng": 101.555946
+  },
+  "marker": {
+    "lat": 15.044681,
+    "lng": 101.555946
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "data-mapper",
+  "is_dam_detail_active": false,
+  "be_under": "const8",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "__v": 0,
+  "Password": "[hko:y[dit0kp",
+  "Username": "SKJNMA",
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a4c"
+  },
+  "id": 26,
+  "name": "เขื่อนห้วยหินลับ",
+  "code_name": "hhl",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ อ่างเก็บน้ำห้วยหินลับ",
+  "district": "ดงหลวง",
+  "sub_district": "หนองแคน",
+  "province": "มุกดาหาร",
+  "started_construction": "2523",
+  "finished_construction": "2525",
+  "reservoir_area": "1.54",
+  "rainwater_receiving_area": "30.5",
+  "dam_width": "5",
+  "dam_height": "0",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "184.31",
+  "highest_water_level": "183.534",
+  "dam_length": "530",
+  "catchment_level": "182.314",
+  "lowest_water_level": "177.814",
+  "wcocl": null,
+  "wcohwl": null,
+  "over_catchment_level": "182.814",
+  "created_at": {
+    "$date": "2022-01-31T04:07:40.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-07-25T03:53:40.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 16.782871,
+    "lng": 104.487213
+  },
+  "marker": {
+    "lat": 16.781474,
+    "lng": 104.487148
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "instrument",
+  "is_dam_detail_active": false,
+  "be_under": "rid_7",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HHLMUK",
+  "Password": "sh;psbo]y[",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a4d"
+  },
+  "id": 25,
+  "name": "เขื่อนห้วยไร่",
+  "code_name": "hur",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ อ่างเก็บน้ำห้วยไร่",
+  "district": "ดงหลวง",
+  "sub_district": "หนองแคน",
+  "province": "มุกดาหาร",
+  "started_construction": "2524",
+  "finished_construction": "2524",
+  "reservoir_area": "3.26",
+  "rainwater_receiving_area": "33.6",
+  "dam_width": "7",
+  "dam_height": "15",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "192",
+  "highest_water_level": "191",
+  "dam_length": "268",
+  "catchment_level": "190",
+  "lowest_water_level": "184",
+  "wcocl": null,
+  "wcohwl": null,
+  "over_catchment_level": "190.5",
+  "created_at": {
+    "$date": "2022-01-31T04:00:24.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-07-25T03:43:43.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 16.803576,
+    "lng": 104.460846
+  },
+  "marker": {
+    "lat": 16.801975,
+    "lng": 104.461622
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "instrument",
+  "is_dam_detail_active": false,
+  "be_under": "rid_7",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HURMUK",
+  "Password": "sh;pwij",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a4e"
+  },
+  "id": 8,
+  "name": "อ่างเก็บน้ำลำคันฉู",
+  "code_name": "lch",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนพร้อมระบบส่งข้อมูลอัตโนมัติ อ่างเก็บน้ำลำคันฉู ต.โคกเพชรพัฒนา อ.บำเหน็จณรงค์ จ.ชัยภูมิ",
+  "district": "บำเหน็จณรงค์",
+  "sub_district": "โคกเพชรพัฒนา",
+  "province": "ชัยภูมิ",
+  "started_construction": "2533",
+  "finished_construction": "2543",
+  "reservoir_area": "210",
+  "rainwater_receiving_area": "22",
+  "dam_width": "8",
+  "dam_height": "26",
+  "maximum_capacity": "56",
+  "catchment_capacity": "42.6",
+  "dam_level": "269",
+  "highest_water_level": "266.87",
+  "dam_length": "2008",
+  "catchment_level": "265",
+  "lowest_water_level": "253",
+  "wcocl": null,
+  "wcohwl": null,
+  "over_catchment_level": "266",
+  "created_at": {
+    "$date": "2021-03-22T06:11:44.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-05T14:03:47.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 15.494578,
+    "lng": 101.545548
+  },
+  "marker": {
+    "lat": 15.494578,
+    "lng": 101.545548
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "alert-alarm-action",
+  "is_dam_detail_active": false,
+  "be_under": "rid_6",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "LCHCPM",
+  "Password": "]e8yoC6",
+  "__v": 0,
+  "dir": [
+    "/OMNLCH"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a4f"
+  },
+  "id": 18,
+  "name": "อ่างเก็บน้ำห้วยเตย",
+  "code_name": "hty",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ อ่างเก็บน้ำห้วยเตย",
+  "district": "เมือง",
+  "sub_district": "ท่าพระ",
+  "province": "ขอนแก่น",
+  "started_construction": "2511",
+  "finished_construction": "2511",
+  "reservoir_area": "28",
+  "rainwater_receiving_area": "28",
+  "dam_width": "6",
+  "dam_height": "10.7",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "178.5",
+  "highest_water_level": "177.25",
+  "dam_length": "1090",
+  "catchment_level": "176.55",
+  "lowest_water_level": "171.5",
+  "wcocl": "5.34",
+  "wcohwl": "7.12",
+  "over_catchment_level": "176.8",
+  "created_at": {
+    "$date": "2021-09-22T07:47:18.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-09-01T04:49:05.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 16.266485,
+    "lng": 102.818277
+  },
+  "marker": {
+    "lat": 16.267116,
+    "lng": 102.814509
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "dam-information",
+  "is_dam_detail_active": false,
+  "be_under": "rid_6",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HUTKON",
+  "Password": "sh;pg9p",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a50"
+  },
+  "id": 29,
+  "name": "อ่างเก็บน้ำห้วยวังลิ้นฟ้า",
+  "code_name": "HWLFKLS",
+  "project_name": "งานจ้างจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ",
+  "district": "ห้วยเม็ก",
+  "sub_district": "คําเหมือดแก้ว",
+  "province": "กาฬสินธุ์",
+  "started_construction": "2526",
+  "finished_construction": "2530",
+  "reservoir_area": "0",
+  "rainwater_receiving_area": "13.5",
+  "dam_width": "6",
+  "dam_height": "11.2",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "184.6",
+  "highest_water_level": "182.7",
+  "dam_length": "1200",
+  "catchment_level": "182",
+  "lowest_water_level": "176.5",
+  "wcocl": "3.35",
+  "wcohwl": "4.39",
+  "over_catchment_level": "182.5",
+  "created_at": {
+    "$date": "2022-08-29T07:44:57.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-08-17T03:59:21.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 16.509678,
+    "lng": 103.204297
+  },
+  "marker": {
+    "lat": 16.509678,
+    "lng": 103.204297
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "instrument",
+  "is_dam_detail_active": false,
+  "be_under": "rid_6",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HWLFKLS",
+  "Password": "Sh;p;y’]bhoahk",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a51"
+  },
+  "id": 20,
+  "name": "เขื่อนลำเชียงไกร ตอนบน",
+  "code_name": "lck",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ เขื่อนลำเชียงไกร ตอนบน",
+  "district": "ด่านขุนทด",
+  "sub_district": "บ้านเก่า",
+  "province": "นครราชสีมา",
+  "started_construction": "2544",
+  "finished_construction": "2548",
+  "reservoir_area": "5.25",
+  "rainwater_receiving_area": "418",
+  "dam_width": "8",
+  "dam_height": "0",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "236.5",
+  "highest_water_level": "234.142",
+  "dam_length": "1820",
+  "catchment_level": "234",
+  "lowest_water_level": "230",
+  "wcocl": null,
+  "wcohwl": null,
+  "over_catchment_level": "234.1",
+  "created_at": {
+    "$date": "2021-12-05T00:28:09.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-05-25T04:56:45.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 15.188768,
+    "lng": 101.638302
+  },
+  "marker": {
+    "lat": 15.188768,
+    "lng": 101.638302
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "dam-information",
+  "is_dam_detail_active": false,
+  "be_under": "rid_8",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "LCKUNMA",
+  "Password": "]eg=up'wdi9vo[o",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a52"
+  },
+  "id": 23,
+  "name": "เขื่อนห้วยชะโนด",
+  "code_name": "hcn",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ อ่างเก็บน้ำห้วยชะโนด",
+  "district": "ดงหลวง",
+  "sub_district": "หนองบัว",
+  "province": "มุกดาหาร",
+  "started_construction": "2520",
+  "finished_construction": "2525",
+  "reservoir_area": "21.37",
+  "rainwater_receiving_area": "48.7",
+  "dam_width": "6",
+  "dam_height": "0",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "177.5",
+  "highest_water_level": "175.9",
+  "dam_length": "3420",
+  "catchment_level": "175",
+  "lowest_water_level": "168.5",
+  "wcocl": null,
+  "wcohwl": null,
+  "over_catchment_level": "175.5",
+  "created_at": {
+    "$date": "2022-01-31T03:28:38.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-07-25T03:13:04.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 16.811637,
+    "lng": 104.557117
+  },
+  "marker": {
+    "lat": 16.811637,
+    "lng": 104.557117
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "instrument",
+  "is_dam_detail_active": false,
+  "be_under": "rid_7",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HCNMUK",
+  "Password": "sh;p=tFof",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a53"
+  },
+  "id": 9,
+  "name": "อ่างเก็บน้ำห้วยสะทด",
+  "code_name": "hst",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ อ่างเก็บน้ำห้วยสะทด",
+  "district": "ห้วยผึ้ง",
+  "sub_district": "คำบง",
+  "province": "กาฬสินธุ์",
+  "started_construction": "2510",
+  "finished_construction": "2512",
+  "reservoir_area": "12.6",
+  "rainwater_receiving_area": "61",
+  "dam_width": "6",
+  "dam_height": "14",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "192",
+  "highest_water_level": "191",
+  "dam_length": "920",
+  "catchment_level": "190",
+  "lowest_water_level": "185",
+  "wcocl": "11.658",
+  "wcohwl": "21.85",
+  "over_catchment_level": "190.5",
+  "created_at": {
+    "$date": "2021-03-22T09:09:19.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-09-07T13:31:41.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 16.699175,
+    "lng": 103.859647
+  },
+  "marker": {
+    "lat": 16.69346,
+    "lng": 103.861537
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "instrument",
+  "is_dam_detail_active": false,
+  "be_under": "rid_6",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HSTKLS",
+  "Password": "sh;pltmf",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a54"
+  },
+  "id": 28,
+  "name": "อ่างเก็บน้ำห้วยสีทน",
+  "code_name": "HSTNKLS",
+  "project_name": "งานจ้างจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ",
+  "district": "เมืองกาฬสินธุ์",
+  "sub_district": "โพนทอง",
+  "province": "กาฬสินธุ์",
+  "started_construction": "0",
+  "finished_construction": "2502",
+  "reservoir_area": "0",
+  "rainwater_receiving_area": "0",
+  "dam_width": "5",
+  "dam_height": "9",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "152.73",
+  "highest_water_level": "151.46",
+  "dam_length": "634",
+  "catchment_level": "150.73",
+  "lowest_water_level": "146.73",
+  "wcocl": "3.55",
+  "wcohwl": "5.7",
+  "over_catchment_level": "0",
+  "created_at": {
+    "$date": "2022-05-20T11:00:54.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-24T03:43:02.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 16.487373,
+    "lng": 103.529616
+  },
+  "marker": {
+    "lat": 16.487373,
+    "lng": 103.529616
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "instrument",
+  "is_dam_detail_active": false,
+  "be_under": "rid_6",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HSTNKLS",
+  "Password": "sh;plumo",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a55"
+  },
+  "id": 30,
+  "name": "อ่างเก็บน้ำลำพะยัง ตอนบน",
+  "code_name": "LPYUKLS",
+  "project_name": "งานจ้างจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ",
+  "district": "เขาวง",
+  "sub_district": "สงเปลือย",
+  "province": "กาฬสินธุ์",
+  "started_construction": "0",
+  "finished_construction": "2538",
+  "reservoir_area": "0",
+  "rainwater_receiving_area": "6.5",
+  "dam_width": "8",
+  "dam_height": "16",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "210.8",
+  "highest_water_level": "208.8",
+  "dam_length": "725",
+  "catchment_level": "208.4",
+  "lowest_water_level": "200",
+  "wcocl": "4",
+  "wcohwl": "4.4",
+  "over_catchment_level": "208.6",
+  "created_at": {
+    "$date": "2022-08-29T08:27:55.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-24T03:36:07.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 16.658739,
+    "lng": 104.172388
+  },
+  "marker": {
+    "lat": 16.658739,
+    "lng": 104.172388
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "data-mapper",
+  "is_dam_detail_active": false,
+  "be_under": "rid_6",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "LPYUKLS",
+  "Password": "]ertpy’9vo[o",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a56"
+  },
+  "id": 11,
+  "name": "อ่างเก็บน้ำห้วยขอนสัก",
+  "code_name": "hks",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนพร้อมระบบส่งข้อมูลอัตโนมัติ อ่างเก็บน้ำห้วยขอนสัก ต.วังยาว อ.โกสุมพิสัย จ.มหาสารคาม",
+  "district": "โกสุมพิสัย",
+  "sub_district": "วังยาว",
+  "province": "มหาสารคาม",
+  "started_construction": "2535",
+  "finished_construction": "2544",
+  "reservoir_area": "3.163",
+  "rainwater_receiving_area": "78.1",
+  "dam_width": "8",
+  "dam_height": "14",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "178.5",
+  "highest_water_level": "176.35",
+  "dam_length": "1160",
+  "catchment_level": "175",
+  "lowest_water_level": "171",
+  "wcocl": null,
+  "wcohwl": null,
+  "over_catchment_level": "175.5",
+  "created_at": {
+    "$date": "2021-03-23T04:14:14.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-07-07T04:15:17.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 16.203005,
+    "lng": 102.91583
+  },
+  "marker": {
+    "lat": 16.207237,
+    "lng": 102.917967
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "alert-alarm-action",
+  "is_dam_detail_active": false,
+  "be_under": "rid_6",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HKSMKM",
+  "Password": "sh;p-volyd",
+  "__v": 0,
+  "dir": [
+    "/OMNHKS"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a57"
+  },
+  "id": 35,
+  "name": "เขื่อนมูลบน",
+  "code_name": "MBNMA",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ",
+  "district": "ครบุรี",
+  "sub_district": "จระเข้หิน",
+  "province": "นครราชสีมา",
+  "started_construction": "2523",
+  "finished_construction": "2540",
+  "reservoir_area": "0",
+  "rainwater_receiving_area": "454",
+  "dam_width": "8",
+  "dam_height": "32.7",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "230.7",
+  "highest_water_level": "228.5",
+  "dam_length": "880",
+  "catchment_level": "221",
+  "lowest_water_level": "208",
+  "wcocl": "141",
+  "wcohwl": "350",
+  "over_catchment_level": "228",
+  "created_at": {
+    "$date": "2022-08-30T03:31:48.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-09-01T03:32:34.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 14.484284,
+    "lng": 102.147226
+  },
+  "marker": {
+    "lat": 14.484284,
+    "lng": 102.147226
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "data-mapper",
+  "is_dam_detail_active": false,
+  "be_under": "rid_8",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "MBNMA",
+  "Password": "g-njvo,^][o",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a58"
+  },
+  "id": 36,
+  "name": "เขื่อนลำตะคอง",
+  "code_name": "LTKNMA",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ",
+  "district": "สีคิ้ว",
+  "sub_district": "คลองไผ่",
+  "province": "นครราชสีมา",
+  "started_construction": "2507",
+  "finished_construction": "2512",
+  "reservoir_area": "0",
+  "rainwater_receiving_area": "1430",
+  "dam_width": "10",
+  "dam_height": "43.3",
+  "maximum_capacity": "445",
+  "catchment_capacity": "314.49",
+  "dam_level": "282.3",
+  "highest_water_level": "280.3",
+  "dam_length": "521",
+  "catchment_level": "277",
+  "lowest_water_level": "261",
+  "wcocl": "341.49",
+  "wcohwl": "445",
+  "over_catchment_level": "278",
+  "created_at": {
+    "$date": "2022-08-30T04:12:38.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-08-09T09:05:32.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 14.860504,
+    "lng": 101.557
+  },
+  "marker": {
+    "lat": 14.865205,
+    "lng": 101.560752
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "data-mapper",
+  "is_dam_detail_active": false,
+  "be_under": "rid_8",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "LTKNMA",
+  "Password": "]e9t8v’",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a59"
+  },
+  "id": 41,
+  "name": "เขื่อนห้วยโพงตอนบน",
+  "code_name": "HPYST",
+  "project_name": "งานจ้างปรับปรุงเครื่องมือเขื่อนห้วยโพงตอนบน",
+  "district": "เลิงนกทา",
+  "sub_district": "ศรีแก้ว",
+  "province": "ยโสธร",
+  "started_construction": "0",
+  "finished_construction": "0",
+  "reservoir_area": "0",
+  "rainwater_receiving_area": "0",
+  "dam_width": "8",
+  "dam_height": "17.5",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "188.5",
+  "highest_water_level": "187",
+  "dam_length": "545",
+  "catchment_level": "186",
+  "lowest_water_level": "180.26",
+  "wcocl": null,
+  "wcohwl": null,
+  "over_catchment_level": "186.5",
+  "created_at": {
+    "$date": "2022-09-05T06:02:53.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-22T01:26:16.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 16.190753,
+    "lng": 104.331176
+  },
+  "marker": {
+    "lat": 16.190753,
+    "lng": 104.331176
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "instrument",
+  "is_dam_detail_active": false,
+  "be_under": "rid_7",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "__v": 0,
+  "Password": "Sh;pFr’",
+  "Username": "HUPYST",
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a5a"
+  },
+  "id": 43,
+  "name": "เขื่อนห้วยเดือนห้า",
+  "code_name": "HDHUBN",
+  "project_name": "งานจ้างปรับปรุงเครื่องมือเขื่อนห้วยเดือนห้า",
+  "district": "บุณฑริก",
+  "sub_district": "ห้วยข่า",
+  "province": "อุบลราชธานี",
+  "started_construction": "0",
+  "finished_construction": "0",
+  "reservoir_area": "0",
+  "rainwater_receiving_area": "0",
+  "dam_width": "8",
+  "dam_height": "24.2",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "180.2",
+  "highest_water_level": "178.32",
+  "dam_length": "994",
+  "catchment_level": "177",
+  "lowest_water_level": "171",
+  "wcocl": null,
+  "wcohwl": null,
+  "over_catchment_level": "178",
+  "created_at": {
+    "$date": "2022-09-05T06:30:25.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-09-09T09:37:07.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 14.646021,
+    "lng": 105.441069
+  },
+  "marker": {
+    "lat": 14.646021,
+    "lng": 105.441069
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "instrument",
+  "is_dam_detail_active": false,
+  "be_under": "rid_7",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HDHUBN",
+  "Password": "Sh;pgfnvoshk",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a5b"
+  },
+  "id": 17,
+  "name": "อ่างเก็บน้ำลำปาว",
+  "code_name": "lpa",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนพร้อมระบบส่งข้อมูลอัตโนมัติ อ่างเก็บน้ำลำปาว",
+  "district": "เมืองกาฬสินธุ์",
+  "sub_district": "ลำคลอง",
+  "province": "เมืองกาฬสินธุ์",
+  "started_construction": "2506",
+  "finished_construction": "2511",
+  "reservoir_area": "570.56",
+  "rainwater_receiving_area": "5960",
+  "dam_width": "14",
+  "dam_height": "33",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "167.8",
+  "highest_water_level": "165.47",
+  "dam_length": "7800",
+  "catchment_level": "164",
+  "lowest_water_level": "151",
+  "wcocl": "1980",
+  "wcohwl": "2450",
+  "over_catchment_level": "164.5",
+  "created_at": {
+    "$date": "2021-06-25T02:27:56.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-09-20T02:49:28.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 16.610299,
+    "lng": 103.448896
+  },
+  "marker": {
+    "lat": 16.602624,
+    "lng": 103.449894
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "data-mapper",
+  "is_dam_detail_active": false,
+  "be_under": "rid_6",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "LUPKLS",
+  "Password": "g-njvo]exk;",
+  "__v": 0,
+  "dir": [
+    "/OMNLUPKLS_C",
+    "/OMNLUPKLS_B",
+    "/OMNLUPKLS_D",
+    "/OMNLUPKLS_A"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a5c"
+  },
+  "id": 44,
+  "name": "เขื่อนห้วยละมืด",
+  "code_name": "HLMUBN",
+  "project_name": "งานจ้างปรับปรุงเครื่องมือเขื่อนห้วยละมืด",
+  "district": "บุณฑริก",
+  "sub_district": "ห้วยข่า",
+  "province": "อุบลราชธานี",
+  "started_construction": "0",
+  "finished_construction": "0",
+  "reservoir_area": "0",
+  "rainwater_receiving_area": "0",
+  "dam_width": "8",
+  "dam_height": "14.3",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "175.3",
+  "highest_water_level": "173.3",
+  "dam_length": "2350",
+  "catchment_level": "172",
+  "lowest_water_level": "165.5",
+  "wcocl": null,
+  "wcohwl": null,
+  "over_catchment_level": "172.5",
+  "created_at": {
+    "$date": "2022-09-05T06:52:12.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-14T08:46:30.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 14.623409,
+    "lng": 105.390783
+  },
+  "marker": {
+    "lat": 14.623409,
+    "lng": 105.390783
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "data-mapper",
+  "is_dam_detail_active": false,
+  "be_under": "rid_7",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HLMUBN",
+  "Password": "Sh;p]t,nf",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a5d"
+  },
+  "id": 42,
+  "name": "เขื่อนห้วยสะพงน้อย",
+  "code_name": "HSPNUBN",
+  "project_name": "งานจ้างปรับปรุงเครื่องมือเขื่อนห้วยสะพงน้อย",
+  "district": "บุณฑริก",
+  "sub_district": "ห้วยข่า",
+  "province": "อุบลราชธานี",
+  "started_construction": "0",
+  "finished_construction": "0",
+  "reservoir_area": "0",
+  "rainwater_receiving_area": "0",
+  "dam_width": "8",
+  "dam_height": "18",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "0",
+  "highest_water_level": "168.15",
+  "dam_length": "1786",
+  "catchment_level": "167",
+  "lowest_water_level": "160.3",
+  "wcocl": null,
+  "wcohwl": null,
+  "over_catchment_level": "167.5",
+  "created_at": {
+    "$date": "2022-09-05T06:18:31.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-09-25T03:50:41.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 14.680935,
+    "lng": 105.429697
+  },
+  "marker": {
+    "lat": 14.680935,
+    "lng": 105.429697
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "instrument",
+  "is_dam_detail_active": false,
+  "be_under": "rid_7",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HSPNUBN",
+  "Password": "Sh;pltr’ohvp",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a5e"
+  },
+  "id": 31,
+  "name": "อ่างเก็บน้ำห้วยลอมไผ่",
+  "code_name": "HLPKON",
+  "project_name": "งานจ้างจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ",
+  "district": "สีชมพู",
+  "sub_district": "ศรีสุข",
+  "province": "ขอนแก่น",
+  "started_construction": "0",
+  "finished_construction": "2532",
+  "reservoir_area": "0",
+  "rainwater_receiving_area": "29",
+  "dam_width": "8",
+  "dam_height": "11.5",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "232",
+  "highest_water_level": "230.5",
+  "dam_length": "1610",
+  "catchment_level": "229.5",
+  "lowest_water_level": "224",
+  "wcocl": "5.6",
+  "wcohwl": "7.8",
+  "over_catchment_level": "230",
+  "created_at": {
+    "$date": "2022-08-29T08:51:35.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-03T01:16:03.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 16.73327,
+    "lng": 102.134186
+  },
+  "marker": {
+    "lat": 16.73327,
+    "lng": 102.134186
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "data-mapper",
+  "is_dam_detail_active": false,
+  "be_under": "rid_6",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HLPKON",
+  "Password": "Sh;p]v,wzj",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a5f"
+  },
+  "id": 32,
+  "name": "อ่างเก็บน้ำห้วยสังเคียบ",
+  "code_name": "HSKKLS",
+  "project_name": "งานจ้างจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ",
+  "district": "สมเด็จ",
+  "sub_district": "แซงบาดาล",
+  "province": "กาฬสินธุ์",
+  "started_construction": "0",
+  "finished_construction": "2538",
+  "reservoir_area": "0",
+  "rainwater_receiving_area": "47.4",
+  "dam_width": "8",
+  "dam_height": "14.9",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "202",
+  "highest_water_level": "199.97",
+  "dam_length": "530",
+  "catchment_level": "198.6",
+  "lowest_water_level": "194.3",
+  "wcocl": "7.5",
+  "wcohwl": "12",
+  "over_catchment_level": "199.5",
+  "created_at": {
+    "$date": "2022-08-29T09:33:57.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-09-25T01:52:10.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 16.840352,
+    "lng": 103.7507
+  },
+  "marker": {
+    "lat": 16.840352,
+    "lng": 103.7507
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "instrument",
+  "is_dam_detail_active": false,
+  "be_under": "rid_6",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HSKKLS",
+  "Password": "Sh;ply’g8up[",
+  "__v": 0,
+  "dir": [
+    "/I.H.1 Main Dam/Omnia",
+    "/I.H.2 Saddle Dam/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a60"
+  },
+  "id": 39,
+  "name": "เขื่อนห้วยสีโท",
+  "code_name": "HSTAMJ",
+  "project_name": "งานจ้างปรับปรุงเครื่องมือเขื่อนห้วยสีโท",
+  "district": "เมืองอำนาจเจริญ",
+  "sub_district": "หนองมะแซว",
+  "province": "อำนาจเจริญ",
+  "started_construction": "2533",
+  "finished_construction": "2538",
+  "reservoir_area": "0",
+  "rainwater_receiving_area": "0",
+  "dam_width": "8",
+  "dam_height": "16.8",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "180",
+  "highest_water_level": "178.11",
+  "dam_length": "520",
+  "catchment_level": "177",
+  "lowest_water_level": "169",
+  "wcocl": "10.6",
+  "wcohwl": null,
+  "over_catchment_level": "177.5",
+  "created_at": {
+    "$date": "2022-09-05T03:14:06.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-07-24T03:34:34.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 15.886795,
+    "lng": 104.742572
+  },
+  "marker": {
+    "lat": 15.886795,
+    "lng": 104.742572
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "data-mapper",
+  "is_dam_detail_active": false,
+  "be_under": "rid_7",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HSTAMJ",
+  "Password": "Sh;pluFm",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a61"
+  },
+  "id": 37,
+  "name": "เขื่อนลำนางรอง",
+  "code_name": "LNRBRM",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ",
+  "district": "โนนดินแดง",
+  "sub_district": "โนนดินแดง",
+  "province": "บุรีรัมย์",
+  "started_construction": "0",
+  "finished_construction": "0",
+  "reservoir_area": "0",
+  "rainwater_receiving_area": "450",
+  "dam_width": "8",
+  "dam_height": "23",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "244",
+  "highest_water_level": "242.5",
+  "dam_length": "1500",
+  "catchment_level": "240",
+  "lowest_water_level": "229",
+  "wcocl": "121.4",
+  "wcohwl": "196.67",
+  "over_catchment_level": "242",
+  "created_at": {
+    "$date": "2022-08-30T06:06:49.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-16T02:56:22.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 14.300426,
+    "lng": 102.763897
+  },
+  "marker": {
+    "lat": 14.300426,
+    "lng": 102.763897
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "alert-alarm-action",
+  "is_dam_detail_active": false,
+  "be_under": "rid_8",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "LNRBRM",
+  "Password": "]eok’iv’",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a62"
+  },
+  "id": 38,
+  "name": "เขื่อนห้วยตาจู",
+  "code_name": "HTJSSK",
+  "project_name": "โครงการจัดหาและติดตั้งเครื่องมือตรวจวัดพฤติกรรมเขื่อนแบบอัตโนมัติ",
+  "district": "ขุนหาญ",
+  "sub_district": "กันทรอม",
+  "province": "ศรีสะเกษ",
+  "started_construction": "0",
+  "finished_construction": "0",
+  "reservoir_area": "0",
+  "rainwater_receiving_area": "0",
+  "dam_width": "0",
+  "dam_height": "0",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "192.1",
+  "highest_water_level": "190",
+  "dam_length": "1500",
+  "catchment_level": "188.5",
+  "lowest_water_level": "172.5",
+  "wcocl": null,
+  "wcohwl": null,
+  "over_catchment_level": "189",
+  "created_at": {
+    "$date": "2022-09-01T09:01:25.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-09-01T02:09:56.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 14.546122,
+    "lng": 104.351037
+  },
+  "marker": {
+    "lat": 14.546122,
+    "lng": 104.351037
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "data-mapper",
+  "is_dam_detail_active": false,
+  "be_under": "rid_8",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HTJSSK",
+  "Password": "Sh;p9k0^",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+},
+{
+  "_id": {
+    "$oid": "6511093831b7f9e2c90e9a63"
+  },
+  "id": 40,
+  "name": "เขื่อนห้วยคันแทใหญ่",
+  "code_name": "HKTYMUK",
+  "project_name": "งานจ้างปรับปรุงเครื่องมือเขื่อนห้วยคันแทใหญ่",
+  "district": "คำชะอี",
+  "sub_district": "คำชะอี",
+  "province": "มุกดาหาร",
+  "started_construction": "0",
+  "finished_construction": "0",
+  "reservoir_area": "18.45",
+  "rainwater_receiving_area": "0",
+  "dam_width": "8",
+  "dam_height": "36",
+  "maximum_capacity": null,
+  "catchment_capacity": null,
+  "dam_level": "245",
+  "highest_water_level": "243.14",
+  "dam_length": "810",
+  "catchment_level": "242",
+  "lowest_water_level": "221.6",
+  "wcocl": "4.62",
+  "wcohwl": "5.53",
+  "over_catchment_level": "242.5",
+  "created_at": {
+    "$date": "2022-09-05T04:14:59.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-09-11T06:38:10.000Z"
+  },
+  "is_active": true,
+  "has_weather_station": false,
+  "center": {
+    "lat": 16.532538,
+    "lng": 104.345037
+  },
+  "marker": {
+    "lat": 16.532538,
+    "lng": 104.345037
+  },
+  "status": "activated",
+  "youtube_link": null,
+  "step": "confirm",
+  "is_dam_detail_active": false,
+  "be_under": "rid_7",
+  "is_dam_information": true,
+  "is_ftp": true,
+  "is_instrument": true,
+  "is_aaa": true,
+  "is_data_mapper": true,
+  "Username": "HKTYMUK",
+  "Password": "8yocm.sPj",
+  "__v": 0,
+  "dir": [
+    "/Omnia"
+  ],
+  "host": "203.150.102.162"
+}]
