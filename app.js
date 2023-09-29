@@ -1,11 +1,11 @@
 // server.js
 const express = require("express");
 const app = express();
-const port = process.env.PORT || 3060;
+const port = process.env.PORT || 8000;
 const cors = require("cors");
 const swaggerUi = require("swagger-ui-express");
 const swaggerDocument = require("./swaggerConfig");
-const bson = require("bson")
+const bson = require("bson");
 
 const CallFTP = require("./newCallFTP");
 app.use(cors());

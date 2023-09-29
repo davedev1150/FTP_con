@@ -67,12 +67,15 @@ async function processRemoteDirectory(coninfo, dirPath) {
                           const filteredHeaders = data[0].filter(
                             (_, index) => data[1][index] == "  NAN"
                           );
+                          const datetime = data[1][0];
+                          console.log("datetime=", datetime);
                           console.log(filteredHeaders);
                           resultsArray.push({
                             name: coninfo.name,
                             code_name: coninfo.code_name,
                             be_under: coninfo.be_under,
                             use_dir: dirPath,
+                            datetime: datetime,
                             isdata: true,
                             header: filteredHeaders,
                             file: fileToDownload.name,
@@ -85,6 +88,7 @@ async function processRemoteDirectory(coninfo, dirPath) {
                             code_name: coninfo.code_name,
                             be_under: coninfo.be_under,
                             use_dir: dirPath,
+                            datetime: datetime,
                             isdata: false,
                             header: filteredHeaders,
                             file: fileToDownload.name,
@@ -213,6 +217,7 @@ async function CallFTP() {
         if (obj1.code_name === obj2[0].code_name) {
           obj1.FTPdata.push({
             use_dir: obj2[0].use_dir,
+            datetime: obj2[0].datetime,
             isdata: obj2[0].isdata,
             header: obj2[0].header,
             file: obj2[0].file,
@@ -256,6 +261,7 @@ async function CallFTPbyCodeName(codename) {
         if (obj1.code_name === obj2[0].code_name) {
           obj1.FTPdata.push({
             use_dir: obj2[0].use_dir,
+            datetime: obj2[0].datetime,
             isdata: obj2[0].isdata,
             header: obj2[0].header,
             file: obj2[0].file,

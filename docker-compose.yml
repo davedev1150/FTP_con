@@ -1,24 +1,15 @@
 version: '3'
 services:
-  ftp-api:
-    build: .
+  api-ftp:
+    image: api-ftp
+    build:
+      context: .
+      dockerfile: ./Dockerfile
     ports:
-      - '3060:3060'
+      - '6000:6000'
     restart: always
-    networks:
-      - ftp-network
 
-  nginxftp:
-    image: nginx
-    ports:
-      - '81:80'
-    restart: always
-    volumes:
-      - ./nginx.conf:/etc/nginxftp/conf.d/default.conf 
-    networks:
-      - ftp-network
 
-networks:
-  ftp-network:
+
  
 
